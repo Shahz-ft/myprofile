@@ -20,4 +20,4 @@ This is my personal portfolio website created as part of a 30-point challenge. I
 https://shahz-ft.github.io/myprofile/
 
 ## 📸 Output Screenshots
-![output](myprofile/output/)
+![output](myprofile/output/profile.jpg)
