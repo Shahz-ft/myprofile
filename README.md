@@ -16,7 +16,7 @@ This is my personal portfolio website created as part of a 30-point challenge. I
 - CSS
 - JavaScript
   
-## Git Repo Link
+## 🐱 Git Repo Link
 https://github.com/Shahz-ft/myprofile.git
 
 ## 🌐 Live Link
