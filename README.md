@@ -17,9 +17,7 @@ This is my personal portfolio website created as part of a 30-point challenge. I
 - JavaScript(very less)
 
 ## 🌐 Live Link
-
-[View it on GitHub Pages](https://yourusername.github.io/portfolio-website)
+https://shahz-ft.github.io/myprofile/
 
 ## 📸 Output Screenshots
-
-See screenshots folder for visuals.
+![output](myprofile/output/)
